@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Real-time Parking Booking System</string>
+    <string name="title_activity_login_screen_navigation">LoginScreenNavigation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="duration">Duration</string>
+    <string name="select_date">Select Date</string>
+    <string name="yyyy">YYYY</string>
+    <string name="hrs">hrs</string>
+    <string name="slot4">Slot4</string>
+    <string name="dd">dd</string>
+    <string name="start_time">Start time</string>
+    <string name="show_available_slots">Show available slots</string>
+    <string name="slot3">Slot3</string>
+    <string name="slot6">Slot6</string>
+    <string name="h">-</string>
+    <string name="mm">mm</string>
+    <string name="slot1">Slot1</string>
+    <string name="slot5">Slot5</string>
+    <string name="h1">-</string>
+    <string name="slot2">Slot2</string>
+    <string name="login_to_parking_app">Login To Parking App</string>
+    <string name="username_or_email_address">Username or Email Address</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="feeback">Feedback</string>
+    <string name="type_your_feedback">Type your Feedback</string>
+    <string name="send">Send</string>
+    <string name="replies_from_admin">Replies from Admin:</string>
+    <string name="location">Location:</string>
+    <string name="slot_number">Slot number:</string>
+    <string name="start_date">Start date:</string>
+    <string name="end_date">End date:</string>
+    <string name="delete_booking">Delete Booking</string>
+    <string name="humber_parking">HUMBER PARKING</string>
+    <string name="parking_eaze">PARKING EAZE</string>
+    <string name="toronto_pearson_parking">Toronto Pearson Parking</string>
+    <string name="about_us">About Us</string>
+    <string name="we_made_this_app_using_the_idea_to_improve_the_current_situation_of_problems_faced_by_the_people_during_parking_we_came_forward_with_the_solution_with_this_app_that_allows_user_to_book_the_parking_slot_using_the_phone_for_more_details_email_us_at_parking_eaze_gmail_com">We made this app using the idea to improve the current situation of problems faced by the people during parking.We came forward with the solution with this app that allows user to book the parking slot using the phone. For more details email us at parking.eaze@gmail.com</string>
+    <string-array name="time">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="min">
+        <item>00</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="durationhrs">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>

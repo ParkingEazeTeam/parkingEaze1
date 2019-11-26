@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.ViewFeedbacks"
+    android:background="#FFFFFF"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:layout_margin="20dp"
+        tools:context="parking.eaze.LoginScreen">
+        <ListView
+            android:id="@+id/viewfeedbacksadmin_listview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            >
+        </ListView>
+
+    </LinearLayout>
+
+</FrameLayout>

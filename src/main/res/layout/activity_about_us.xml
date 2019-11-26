@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/homee"
+    tools:context=".chooseLocation">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="373dp"
+        android:layout_height="344dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="167dp"
+        android:layout_marginBottom="220dp"
+        android:text="@string/we_made_this_app_using_the_idea_to_improve_the_current_situation_of_problems_faced_by_the_people_during_parking_we_came_forward_with_the_solution_with_this_app_that_allows_user_to_book_the_parking_slot_using_the_phone_for_more_details_email_us_at_parking_eaze_gmail_com"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="298dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="53dp"
+        android:layout_marginBottom="603dp"
+        android:text="@string/about_us"
+        android:textAlignment="gravity"
+        android:textColor="#ffffff"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+</androidx.constraintlayout.widget.ConstraintLayout>
